@@ -1,0 +1,33 @@
+# angular-zero
+[
+  {
+    "id":1,
+    "name":"alben",
+    "age": 21
+  },
+    {
+    "id":2,
+    "name":"filip
+    "age": 32
+  },
+    {
+    "id":3,
+    "name":"sohen
+    "age": 10
+  },
+    {
+    "id":4
+    "name":"piloe"
+    "age": 42
+  },
+    {
+    "id":5
+    "name":"cool
+    "age": 52
+  },
+    {
+    "id":6
+    "name":"rose
+    "age": 10
+  },
+]
