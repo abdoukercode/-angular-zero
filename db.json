@@ -17,7 +17,7 @@
   },
     {
     "id":4,
-    "name":"piloe"
+    "name":"piloe",
     "age": 42,
   },
     {
@@ -29,6 +29,6 @@
     "id":6,
     "name":"rose"
     "age": 10,
-  },
+  }
     ]
 }
