@@ -7,12 +7,12 @@
   },
     {
     "id":2,
-    "name":"filip
+    "name":"filip"
     "age": 32
   },
     {
     "id":3,
-    "name":"sohen
+    "name":"sohen"
     "age": 10
   },
     {
@@ -22,12 +22,12 @@
   },
     {
     "id":5
-    "name":"cool
+    "name":"cool"
     "age": 52
   },
     {
     "id":6
-    "name":"rose
+    "name":"rose"
     "age": 10
   },
 ]
